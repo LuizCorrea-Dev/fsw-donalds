@@ -48,6 +48,8 @@ npx prisma db seed
 npx shadcn@2.3.0 init »»» y Default Neutral y Use --legacy-peer-deps
 npx shadcn@2.3.0 add button »»»Use --legacy-peer-deps
 npx shadcn@2.3.0 add input
+npx shadcn@2.3.0 add card
+npx shadcn@2.3.0 add scroll-area »»»Use --legacy-peer-deps
 npm instal -D eslint-plugin-simple-import-sort@12.1.1
 npm install -D prettier prettier-plugin-tailwindcss@0.6.5
 

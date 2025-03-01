@@ -53,7 +53,15 @@ npm install -D prettier prettier-plugin-tailwindcss@0.6.5
 
 git status
 git add .
-
 git push
-git branch -M main
 git commit -m "feat : add prisma db tables"
+
+links uteis
+https://www.conventionalcommits.org/en/v1.0.0/
+https://www.prisma.io/
+https://neon.tech/
+https://tailwindcss.com/
+https://nodejs.org/en
+https://nextjs.org/
+https://ui.shadcn.com/docs/installation/next
+https://www.npmjs.com/package/prettier-plugin-tailwindcss/v/0.0.0-insiders.d539a72

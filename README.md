@@ -48,9 +48,12 @@ npx prisma db seed
 npx shadcn@2.3.0 init »»» y Default Neutral y Use --legacy-peer-deps
 npx shadcn@2.3.0 add button »»»Use --legacy-peer-deps
 npx shadcn@2.3.0 add input
+npm instal -D eslint-plugin-simple-import-sort@12.1.1
+npm install -D prettier prettier-plugin-tailwindcss@0.6.5
 
 git status
 git add .
-git commit -m "feat : add prisma db tables"
+
 git push
 git branch -M main
+git commit -m "feat : add prisma db tables"

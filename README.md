@@ -43,7 +43,11 @@ npm i @prisma/client@6.2.1
 npx prisma init
 npx prisma format
 npx prisma migrate dev
+npm install -D ts-node@10.9.2
+npx prisma db seed
 
 git status
 git add .
 git commit -m "feat : add prisma db tables"
+git push
+git branch -M main
